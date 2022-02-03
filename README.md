@@ -1,4 +1,7 @@
-### Hi there 👋
+![waves](https://user-images.githubusercontent.com/98709561/152417549-68b7b3da-4600-4ea9-8818-3ee751c87633.svg)
+
+# Hello! 👋️
+![](https://komarev.com/ghpvc/?username=pattidev&color=0185f3)
 
 <!--
 **pattidev/pattidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
